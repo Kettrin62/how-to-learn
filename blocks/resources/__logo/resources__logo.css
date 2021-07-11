@@ -1,6 +1,11 @@
 .resources__logo {
   width: 270px;
   height: 38px;
-  background: center;
+  margin: auto;
   background-size: contain;
+  transition: opacity .5s ease;
+}
+
+.resources__logo:hover {
+  opacity: .85;
 }
