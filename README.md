@@ -16,5 +16,4 @@
 * iframe
 * анимации и трансформации
 
-### Сылка на GH Pages:
-https://kettrin62.github.io/how-to-learn/
+**Сылка на GH Pages: https://kettrin62.github.io/how-to-learn/**
